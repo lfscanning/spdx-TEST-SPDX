@@ -1,0 +1,1919 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_spdx-2021-11-03.zip_1635963877.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-11-03T18:24:37Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: spdx-2021-11-03.zip
+PackageFileName: spdx-2021-11-03.zip
+SPDXID: SPDXRef-upload194
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2a4393c6e202def3e66b74a273b817314c1b5549
+PackageChecksum: SHA1: 1e468cb14225a73f6c2a635edc73ff7b67c7b5bf
+PackageChecksum: SHA256: 72a525b3178d46c121d61f89697bb11df9b418039b6b090bc7d9bd6a64aecebc
+PackageChecksum: MD5: e9a7eb9e559777c0c387157ebe79cb57
+PackageLicenseConcluded: Apache-2.0
+PackageLicenseDeclared: Apache-2.0
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload194
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/pom.xml
+SPDXID: SPDXRef-item863075
+FileChecksum: SHA1: 0a9a93f09b4088780e045ce10b2552aa25b62787
+FileChecksum: SHA256: 4bd76ef73c37f7027200d930f1f2640cbd28f523fa59e7dbc1af051bc1994bd9
+FileChecksum: MD5: 13c8c6bbfef77d2c4c52ed118cd466db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright>Copyright (c) 2020 Source Auditor Inc.</defaultFileCopyright> defaultFileContributors> param>Gary O'Neall</param> defaultFileContributors> defaultLicenseInformationInFile>Apache-2.0</defaultLicenseInformationInFile> defaultFileConcludedLicense>Apache-2.0</defaultFileConcludedLicense> defaultFileNotice>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/README.md
+SPDXID: SPDXRef-item863076
+FileChecksum: SHA1: 39c1fa3e0a756eb7183cf88bd493e9576edab3eb
+FileChecksum: SHA256: 7abbe803908f9e1297601b31fac1cb8e67df0e666541c4433a90e47814122158
+FileChecksum: MD5: 0042f7ee96dbcdc463d8ea6879bdd19b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyrights associated with a software package. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/LICENSE
+SPDXID: SPDXRef-item862920
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/AbstractFileCompareSheet.java
+SPDXID: SPDXRef-item862962
+FileChecksum: SHA1: a288e48e5d3f168d44ca6ac0b988fe870bee7356
+FileChecksum: SHA256: 7b973e18c14b201202e9bb18f3d80d10d578b4e7ad927a32d8c50a921499a8f9
+FileChecksum: MD5: 30eadbb45aea81d8c3f2973c7695247f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/AbstractSheet.java
+SPDXID: SPDXRef-item862946
+FileChecksum: SHA1: d34b69a749c980dbd90666e8ac16cbf809c5b793
+FileChecksum: SHA256: 55288b85510ba5c65b6a92d3835a815ba97e494d31d179a760b1370c9fb8ae9a
+FileChecksum: MD5: 1799c470e703c3e1a9ed846afae387cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/CompareHelper.java
+SPDXID: SPDXRef-item862940
+FileChecksum: SHA1: 06585cd8b3a035447c134a3019f7f48f43ec5dc1
+FileChecksum: SHA256: d1bfca40b8f8b5bc8520c5a25aa1cf70cd3d529e418b0229a2d49cf33ecee8cb
+FileChecksum: MD5: 3a1e1c4c8b141d48b6282901efd48862
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/CreatorSheet.java
+SPDXID: SPDXRef-item862941
+FileChecksum: SHA1: bd2072ce80dd7b431d7783e9682bc26318ecaf30
+FileChecksum: SHA256: 866e880515ffa9354c5daaceba4d465234816ece4296a81dfe082224fa98bbe1
+FileChecksum: MD5: 16b27b40986c9c33877d9a722d2127a3
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/DocumentAnnotationSheet.java
+SPDXID: SPDXRef-item862953
+FileChecksum: SHA1: feb0a1738599bb2ed347959b2a97d34544dff931
+FileChecksum: SHA256: bc065405ba704d1657dbe470b8af95690041676ff876d0fae3e5f927c8874aa7
+FileChecksum: MD5: 928c67bf2c18fb5de42a4e59fbcc9b98
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/DocumentRelationshipSheet.java
+SPDXID: SPDXRef-item862956
+FileChecksum: SHA1: f938b968211f52674cf9ea0a8ce552faa18cc505
+FileChecksum: SHA256: 778b3d934a9f01e6892a48cf30d35f27a6c49bf518673c63e9a20af84883e5e0
+FileChecksum: MD5: 27e46d12e6241064e435a915dbea0b5c
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/DocumentSheet.java
+SPDXID: SPDXRef-item862960
+FileChecksum: SHA1: aba9b61043a9f36e18895a02a8baa412da04953d
+FileChecksum: SHA256: 545dd160360ab20805af3597a8c84375b5d5bdda45b99d283c6cd6826231fd38
+FileChecksum: MD5: 76f1ba92b01f1824650560322848d619
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/ExternalReferencesSheet.java
+SPDXID: SPDXRef-item862951
+FileChecksum: SHA1: 21577125874bb922a240a9c4fcbfc12981a95913
+FileChecksum: SHA256: a2eacaa2bd0e2b8774a5f99d57cd6076a31dced5ce8ffce7104d450e21ef0dd6
+FileChecksum: MD5: 2df6903591428855d59f4a0ec2b520c9
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/ExtractedLicenseSheet.java
+SPDXID: SPDXRef-item862948
+FileChecksum: SHA1: 85d27dd745bab5b66d7b91f4cbcce8acb7552713
+FileChecksum: SHA256: c64a8bcfd1d2b65a1a36873374967952de89cd383d876b5b71c8f6da4aebd839
+FileChecksum: MD5: 6cf80d4d0e080fb2080d878724fdf349
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileAnnotationSheet.java
+SPDXID: SPDXRef-item862945
+FileChecksum: SHA1: 58660e158461b307c467b951d5683084cb62b3a4
+FileChecksum: SHA256: 1c6fcd5753d4060eb47d267a8f3e9b538fb70cc1682404074b4371108c9c25a6
+FileChecksum: MD5: 771f1d363a191183f3b58afb2cd1f405
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileAttributionSheet.java
+SPDXID: SPDXRef-item862963
+FileChecksum: SHA1: f05514480ae787e48201070180e8cd975ca15be2
+FileChecksum: SHA256: 8496588d2a760798329d5f3acc1aa9e0d63a1ee00dee1a353c4e445c430a3414
+FileChecksum: MD5: 220386a4fb6e6d89a61271926ec78c06
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileChecksumSheet.java
+SPDXID: SPDXRef-item862959
+FileChecksum: SHA1: 713525527c9fad700b15ea8bce870d8b7bc86fce
+FileChecksum: SHA256: 66e2cd22a3c6253bd31a1dac8c51f5e6df8a39281a54dcc7d919290d64332fab
+FileChecksum: MD5: 87bdc74e96ab6f794e18f056eab3bec9
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileCommentSheet.java
+SPDXID: SPDXRef-item862938
+FileChecksum: SHA1: 594adaa68dbbfd931038e1a713cc3bf585e551dd
+FileChecksum: SHA256: 641d4cf951a8331761b914a114252b6724adc8a410ab3a1af5d351255548e8a5
+FileChecksum: MD5: 9d9db413e75affcf52aa13a2ec752674
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileConcludedSheet.java
+SPDXID: SPDXRef-item862943
+FileChecksum: SHA1: 6c354e336609486b4e990234b7aa5ad6084348ec
+FileChecksum: SHA256: da889d19ebf1923a75ec43b443ff39957d9d29564165eb8b72701152719764fc
+FileChecksum: MD5: dd1ef059697c9e7341573963e2dbb601
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileContributorsSheet.java
+SPDXID: SPDXRef-item862961
+FileChecksum: SHA1: 9c259c1206a610a0d77ac299954a3b626ea358fc
+FileChecksum: SHA256: 2511a9f96faa355a7ff0a59ce5afda581673d773f10be75c16c73ad29a9be442
+FileChecksum: MD5: 24c1222b467c83a9b2e6a1d4f6b33bab
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileCopyrightSheet.java
+SPDXID: SPDXRef-item862944
+FileChecksum: SHA1: 39b587027ee2bca8cbb0bf28cb34e99c334bf532
+FileChecksum: SHA256: 9003fe525fb5d38482b9b564a05f550588e54c3455eee9bc26437ad77a2cb8a3
+FileChecksum: MD5: 6a3d4984058867bc256db1bdc7d1b9bb
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc.
+copyrights author Gary O'Neall
+CopyrightSheet extends AbstractFileCompareSheet {
+COPYRIGHT_COL_WIDTH = 60;
+CopyrightSheet(Workbook workbook, String sheetName) { super(workbook, sheetName);
+COPYRIGHT_COL_WIDTH);
+CopyrightText(), fileB.getCopyrightText());
+CopyrightText(); if (retval == null) { retval = "NONE"; </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileLicenseCommentsSheet.java
+SPDXID: SPDXRef-item862964
+FileChecksum: SHA1: 0a20188fd7d23f04a6b49b3ec534a3a1a95d70b1
+FileChecksum: SHA256: 8e4fc9c2de1fb4a3d4f695d1d70eadad2e3d12e95fbf5bd4b852b07730af5df5
+FileChecksum: MD5: 5a8de65418bf3771872f8b637b4d8727
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileLicenseInfoSheet.java
+SPDXID: SPDXRef-item862955
+FileChecksum: SHA1: 0481c8bf901e478ae104dd9aa0284405c38a7a97
+FileChecksum: SHA256: 1e0468a7e268544328b4950e230403537b33435c4687f86a77333b8f34060cce
+FileChecksum: MD5: 2f2ef66b7f4cf954faaa4056a0444752
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileNoticeSheet.java
+SPDXID: SPDXRef-item862957
+FileChecksum: SHA1: 3b8aaf072146d61e2fc05be588eb91b4f4b6282b
+FileChecksum: SHA256: 1336cbdf4442486b659f7113338685d68c1b891c818513f03c4e6a58695f32dd
+FileChecksum: MD5: 33fdbe23652b213ab8eb9b256e690b6b
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileRelationshipSheet.java
+SPDXID: SPDXRef-item862949
+FileChecksum: SHA1: b2b907f2392115239e3711b57f7e6e83a39c6136
+FileChecksum: SHA256: 4c8a0e3d1784434991b9f355b2a587a96668870eb47930113d1c7fbc1528d1a0
+FileChecksum: MD5: b8b8e07d28a57572e92cecb809dcccda
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileSpdxIdSheet.java
+SPDXID: SPDXRef-item862952
+FileChecksum: SHA1: af9597d94516646e0d5e5b1172b18395899dfc9f
+FileChecksum: SHA256: f54f703f3aa605789236cd91d2fa64ef332e0fe249a87c6e9021293eee5e9fbf
+FileChecksum: MD5: 486a5b3e878fa4604916a28343d069d5
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/FileTypeSheet.java
+SPDXID: SPDXRef-item862937
+FileChecksum: SHA1: efd0f8f7b2622bf6a08bf115f0483e04cd63759c
+FileChecksum: SHA256: 93c6844fd51c2ded2b555e5c7f414092dbfcdc562e75206039d2bcc5639ab019
+FileChecksum: MD5: 0faf857d62e588749675946c4a6d816c
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/MultiDocumentSpreadsheet.java
+SPDXID: SPDXRef-item862954
+FileChecksum: SHA1: a4c63213a4f59ec211663ee61da6c2c94e89abba
+FileChecksum: SHA256: 207e10fb04906f7000e452ad0c1e88e04019de8bd91cae9342ccfd2c63367d24
+FileChecksum: MD5: cc6330ea4c96fbaa8e716a69d00ec285
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc.
+COPYRIGHT_SHEET_NAME = "File Copyrights"; protected static final String FILE_ANNOTATION_SHEET_NAME = "File Annot."; protected static final String FILE_RELATIONSHIP_SHEET = "File Relationships"; protected static final String SNIPPET_SHEET_NAME = "Snippets";
+CopyrightSheet fileCopyrightSheet;
+CopyrightSheet = new FileCopyrightSheet(this.workbook, FILE_COPYRIGHT_SHEET_NAME); fileCommentSheet = new FileCommentSheet(this.workbook, FILE_COMMENT_SHEET_NAME); fileNoticeSheet = new FileNoticeSheet(this.workbook, FILE_NOTICE_SHEET_NAME); fileContributorsSheet = new FileContributorsSheet(this.workbook, FILE_CONTRIBUTOR_SHEET_NAME); fileAttributionSheet = new FileAttributionSheet(this.workbook, FILE_ATTRIBUTION_SHEET_NAME); fileAnnotationSheet = new FileAnnotationSheet(this.workbook, FILE_ANNOTATION_SHEET_NAME); fileRelationshipSheet = new FileRelationshipSheet(this.workbook, FILE_RELATIONSHIP_SHEET); snippetSheet = new SnippetSheet(this.workbook, SNIPPET_SHEET_NAME); verificationSheet = new VerificationSheet(this.workbook, VERIFICATION_SHEET_NAME); String verify = this.verifyWorkbook(); if (verify != null && !verify.isEmpty()) { logger.error("Invalid workbook: "+verify); throw(new SpreadsheetException("Invalid workbook: "+verify));
+CopyrightSheet.create(wb, FILE_COPYRIGHT_SHEET_NAME); FileLicenseCommentsSheet.create(wb, FILE_LICENSE_COMMENT_SHEET_NAME); FileTypeSheet.create(wb, FILE_TYPE_SHEET_NAME); FileContributorsSheet.create(wb, FILE_CONTRIBUTOR_SHEET_NAME); FileAttributionSheet.create(wb, FILE_ATTRIBUTION_SHEET_NAME); FileNoticeSheet.create(wb, FILE_NOTICE_SHEET_NAME); FileAnnotationSheet.create(wb, FILE_ANNOTATION_SHEET_NAME); FileRelationshipSheet.create(wb, FILE_RELATIONSHIP_SHEET); SnippetSheet.create(wb, SNIPPET_SHEET_NAME); VerificationSheet.create(wb, VERIFICATION_SHEET_NAME); wb.write(excelOut); finally { if(excelOut != null){ excelOut.close();
+CopyrightSheet.importCompareResults(comparer, files, docNames); fileCopyrightSheet.resizeRows(); fileCommentSheet.importCompareResults(comparer, files, docNames); fileCommentSheet.resizeRows(); fileLicenseCommentsSheet.importCompareResults(comparer, files, docNames); fileLicenseCommentsSheet.resizeRows(); fileTypeSheet.importCompareResults(comparer, files, docNames); fileTypeSheet.resizeRows(); fileContributorsSheet.importCompareResults(comparer, files, docNames); fileContributorsSheet.resizeRows(); fileAttributionSheet.importCompareResults(comparer, files, docNames); fileAttributionSheet.resizeRows(); fileNoticeSheet.importCompareResults(comparer, files, docNames); fileNoticeSheet.resizeRows(); fileAnnotationSheet.importCompareResults(comparer, files, docNames); fileAnnotationSheet.resizeRows(); fileRelationshipSheet.importCompareResults(comparer, files, docNames); fileRelationshipSheet.resizeRows(); snippetSheet.importCompareResults(comparer, doc </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/NormalizedFileNameComparator.java
+SPDXID: SPDXRef-item862958
+FileChecksum: SHA1: de76546db4747e66c07aa53a8c009c91ca05b34c
+FileChecksum: SHA256: 7dc193d15412460b8821ab0fdea8feb5e82146c0b7119a682e0bdcb4c98e4358
+FileChecksum: MD5: aef9f795ddfe3252e671497bf7ae7aad
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/PackageSheet.java
+SPDXID: SPDXRef-item862939
+FileChecksum: SHA1: 598e7ba35f77403745f74e52838557cdf97f5e65
+FileChecksum: SHA256: dfdc845ac8bcb5f727a4cb68a8fdb6cd91be39bd3449995204aed76e59fb42bf
+FileChecksum: MD5: 92884ce27f545ac72c8a274f7f8e416a
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc.
+COPYRIGHT_FIELD_TEXT = "Copyright"; protected static final String LICENSE_COMMENT_FIELD_TEXT = "License Comment"; protected static final String DECLARED_LICENSE_FIELD_TEXT = "Declared License"; protected static final String LICENSE_INFOS_FROM_FILES_FIELD_TEXT = "License From Files"; protected static final String CONCLUDED_LICENSE_FIELD_TEXT = "Concluded License"; protected static final String SOURCEINFO_FIELD_TEXT = "Source Info"; protected static final String CHECKSUM_FIELD_TEXT = "Checksum"; protected static final String VERIFICATION_EXCLUDED_FIELD_TEXT = "Verification Excluded"; protected static final String VERIFICATION_FIELD_TEXT = "Verification Value"; protected static final String DOWNLOAD_FIELD_TEXT = "Dowload Location"; protected static final String ORIGINATOR_FIELD_TEXT = "Originator"; protected static final String SUPPLIER_FIELD_TEXT = "Supplier"; protected static final String FILE_NAME_FIELD_TEXT = "File Name"; protected static final String VERSION_FIELD_TEXT
+copyrightRow = this.addRow(); copyrightRow.createCell(FIELD_COL).setCellValue(COPYRIGHT_FIELD_TEXT); if (comparer.isCopyrightsEquals()) { setCellEqualValue(copyrightRow.createCell(EQUALS_COL), allDocsPresent); else { setCellDifferentValue(copyrightRow.createCell(EQUALS_COL));
+copyrightRow.createCell(FIRST_DOC_COL+i).setCellValue(pkg.getCopyrightText()); attributionRow.createCell(FIRST_DOC_COL+i).setCellValue(CompareHelper.attributionsToString(pkg.getAttributionText())); Optional<String> summary = pkg.getSummary(); if (summary.isPresent()) { summaryRow.createCell(FIRST_DOC_COL+i).setCellValue(summary.get()); else { summaryRow.createCell(FIRST_DOC_COL+i).setCellValue("");
+copyrightRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_PACKAGE); summaryRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_PACKAGE); descriptionRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_PACKAGE); filesAnalyzedRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_PACKAGE); externalRefsRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_PACKAGE); </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/SnippetSheet.java
+SPDXID: SPDXRef-item862942
+FileChecksum: SHA1: d68229fb10fe55548df04881f3d3633f3217f102
+FileChecksum: SHA256: 9a8ead397014b38d67b541e3ef7d316b464b0cc9d8baca4352c80fe3b93dd5c0
+FileChecksum: MD5: 3a50f438c1a468955fa3cc558cf8648d
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 Source Auditor Inc.
+COPYRIGHT_FIELD_TEXT = "Copyright"; protected static final String LICENSE_COMMENT_FIELD_TEXT = "License Comment"; protected static final String DECLARED_LICENSE_FIELD_TEXT = "Declared License"; protected static final String LICENSE_INFOS_FROM_FILES_FIELD_TEXT = "License From Files"; protected static final String CONCLUDED_LICENSE_FIELD_TEXT = "Concluded License"; protected static final String ID_FIELD_TEXT = "SPDX ID"; protected static final String ANNOTATION_FIELD_TEXT = "Annotations"; protected static final String RELATIONSHIPS_FIELD_TEXT = "Relationships"; private static final String SNIPPET_NAME_FIELD_TEXT = "Snippet Name"; private static final String SNIPPET_FROM_FILE_FIELD_TEXT = "From File"; protected static final String DIFFERENT_STRING = "Diff"; protected static final String EQUAL_STRING = "Equal"; protected static final String MISSING_STRING = "Equal*"; private static final String NO_VALUE = "[No Value]"; private static final String BYTE_RANGE_FIELD_TEXT = "By
+copyrightRow = this.addRow(); copyrightRow.createCell(FIELD_COL).setCellValue(COPYRIGHT_FIELD_TEXT); if (comparer.isCopyrightsEquals()) { setCellEqualValue(copyrightRow.createCell(EQUALS_COL), allDocsPresent); else { setCellDifferentValue(copyrightRow.createCell(EQUALS_COL));
+copyrightRow.createCell(FIRST_DOC_COL+i).setCellValue(snippet.getCopyrightText()); SpdxFile snippetFromFile = snippet.getSnippetFromFile(); if (snippetFromFile != null) { snippetFromFileRow.createCell(FIRST_DOC_COL+i).setCellValue(snippetFromFile.toString()); else { snippetFromFileRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_VALUE);
+copyrightRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_SNIPPET); snippetFromFileRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_SNIPPET); byteRangeRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_SNIPPET); lineRangeRow.createCell(FIRST_DOC_COL+i).setCellValue(NO_SNIPPET); </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/VerificationSheet.java
+SPDXID: SPDXRef-item862947
+FileChecksum: SHA1: 22eaaefbe232d2d86de2e7c76346f536c943fae9
+FileChecksum: SHA256: f6bb4c970e1788c21614f0acf662f1db194f69a0217ddf7bcab6c65432066c89
+FileChecksum: MD5: 61924b3085450058223d96c1a50cc0e0
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/compare/package-info.java
+SPDXID: SPDXRef-item862950
+FileChecksum: SHA1: 3984937747f7908fd3f6ce3688ce90c81df00b03
+FileChecksum: SHA256: 53ebbe4fd1ef584a8f0960ecabf483a8ef659d85b68546059a5f00eb5df36e0c
+FileChecksum: MD5: e96215c07179f4a124d2f4b35c47ad00
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/schema/AbstractOwlRdfConverter.java
+SPDXID: SPDXRef-item862972
+FileChecksum: SHA1: 876e3a2248df5b68637e016b43bb3fe1f5b6e389
+FileChecksum: SHA256: aeaaba8ff602fe919f20b7a0bc42bdcedba74b308ef09ec5879fbfb4b6cdfd18
+FileChecksum: MD5: 968aed277c8ddea004e13505b50ab85e
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/schema/OwlToJsonContext.java
+SPDXID: SPDXRef-item862975
+FileChecksum: SHA1: 8840d95c90a1298956183e3dc153e72a034a5dbb
+FileChecksum: SHA256: e47f7738f61300eec5f2a9776106509389caf50bf3bb772390a4d6c54d609d8d
+FileChecksum: MD5: 46e8c556ee92cd5260d16ea5c07ff749
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/schema/OwlToJsonSchema.java
+SPDXID: SPDXRef-item862971
+FileChecksum: SHA1: 099077f4271e939da6fb6c2cb125ac94ac2f9df1
+FileChecksum: SHA256: 0f912a8720540e4d910995919e09194818e2439edefb36ed9b1798fd76ae28d1
+FileChecksum: MD5: 5ac6f321eeda58bc323d942b0fc25589
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/schema/OwlToXsd.java
+SPDXID: SPDXRef-item862976
+FileChecksum: SHA1: e12303a84ac4f0c726fde4d7d4431df47dfa6efb
+FileChecksum: SHA256: 5afa15dac85aaaeb62219693f281191acd36f7fe729eee8303b582a3c6fbbb1b
+FileChecksum: MD5: 4de5d5f9e788c831c4189297393c3f8e
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/schema/SchemaException.java
+SPDXID: SPDXRef-item862973
+FileChecksum: SHA1: b2efd916737460752161d18259dd44205c805cbd
+FileChecksum: SHA256: e575c2815aebfa47c32ec1fe4d987b1740e3efc76debb3a5b4fe78c2ce07af8a
+FileChecksum: MD5: e5688d819f43c21f7f3eab21904e8b86
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/schema/package-info.java
+SPDXID: SPDXRef-item862974
+FileChecksum: SHA1: 3d26f3f89de160abdda66a660851c315199f43d0
+FileChecksum: SHA256: 2bee6b44a46e58dcac2db4e34899959513856b04eb8e767b04ad1ed9f70f927a
+FileChecksum: MD5: 6d9169e56035cf3edce3cd1e0c0ddcb0
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/CONTRIBUTING.md
+SPDXID: SPDXRef-item862931
+FileChecksum: SHA1: 1924821b7ccde0331876e81774b8a5f7b489ce63
+FileChecksum: SHA256: 03de8680e6dd27373889dd03bec75b16d65760cfcbfbb91821ac260dd0c5072b
+FileChecksum: MD5: 7999c5da65c86ebc8be4dcccb476d6a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/CompareSpdxDocs.java
+SPDXID: SPDXRef-item862930
+FileChecksum: SHA1: 7022b91acbd021e576707548be6c5e5107ce5ece
+FileChecksum: SHA256: a3034f7316e1ca31b4cd7877b2bbe80c0aa82396ce0cb42d8f0634d63a411991
+FileChecksum: MD5: 70060cb440e614a9c28af295d8eb7177
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013 Source Auditor Inc.
+Copyright (c) 2013 Black Duck Software Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/GenerateVerificationCode.java
+SPDXID: SPDXRef-item862934
+FileChecksum: SHA1: e175b5c8fc68c0aca5688fa25c3bf450959cd728
+FileChecksum: SHA256: de0296aec76729845e1ab9603cc9b16358b2ebd60725c491754075e4d4258e43
+FileChecksum: MD5: 401586e7f11cd436ab5f83a4e6dfb518
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2011 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/InvalidFileNameException.java
+SPDXID: SPDXRef-item862966
+FileChecksum: SHA1: 75ed20e7ec6452af57334a09123e7367745aeb29
+FileChecksum: SHA256: 314c29a7b3d4c39d18e78514cdfbb07574b304354b47e84345e2a54513817d88
+FileChecksum: MD5: fde418370947299bb086af1e1d067d33
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/Main.java
+SPDXID: SPDXRef-item862933
+FileChecksum: SHA1: e5c3dc5fde77176e0419b4c0b5bdad0998f1e70d
+FileChecksum: SHA256: 54bb732e2429a6ffa684ce5b3a74f55592435ee3fbde0e2c985968669abfdae7
+FileChecksum: MD5: 53d02a2767afda90df16228e7a0a3c39
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/MatchingStandardLicenses.java
+SPDXID: SPDXRef-item862977
+FileChecksum: SHA1: f835c384afa248312c0946e4f13b3cc0e32e4b2b
+FileChecksum: SHA256: 6e1e7278770e58afb523f103caa2765e36a64d0453626de9aafd625f7d036e80
+FileChecksum: MD5: 3522acb9f4fa052424d30cfc804bfff6
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2014 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/OnlineToolException.java
+SPDXID: SPDXRef-item862969
+FileChecksum: SHA1: 4cdb1350de4ebfb409a52b060b2b92a344b88a7b
+FileChecksum: SHA256: 8b9b660b87c9d617f5e4cf78fd5c4d4671b5b4650b44313d0103604628093bba
+FileChecksum: MD5: 3f84e590ed5dad82e44161738a81e621
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/RdfSchemaToJsonContext.java
+SPDXID: SPDXRef-item862932
+FileChecksum: SHA1: d5b96882e61d24546c1d3d2506df18505d4aab33
+FileChecksum: SHA256: b680c407dbe3ad5e6f8c4dabe28f95aa64400c0a396ba9b962db7642f45af739
+FileChecksum: MD5: b11d82b37faee7a2c84603b096f89376
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/RdfSchemaToJsonSchema.java
+SPDXID: SPDXRef-item862928
+FileChecksum: SHA1: 71b94d742f022df3df565d0b9b2e18a36286dfaa
+FileChecksum: SHA256: 8a73c6aeddddb716923de5bd4b24dcd83d3b49ddab85d145e6f2ab00b783ec7f
+FileChecksum: MD5: 4377c48f1279d7c8f0896c9ac3e12aee
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/RdfSchemaToXsd.java
+SPDXID: SPDXRef-item862967
+FileChecksum: SHA1: a89650ca925131ce60bf16f35a9ce41c687862ad
+FileChecksum: SHA256: 297c7887e298432f682616bee2417cb4474b2d34e816b4633a2cae7d87f1eb7f
+FileChecksum: MD5: e9a4ebd5ffd0a31c59b9558b45d3fe35
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/SpdxConverter.java
+SPDXID: SPDXRef-item862935
+FileChecksum: SHA1: 38bcbe9a2d6fd40c8289cc9b9d46a417b8853d0d
+FileChecksum: SHA256: 1dd00d15087838be309b0e5f63cdf0048906a1d96039776019636ac37732e1b3
+FileChecksum: MD5: 3b19a10c5185114aa9493c0f10a1a01c
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/SpdxConverterException.java
+SPDXID: SPDXRef-item862965
+FileChecksum: SHA1: 66684743d721070b231425c14d92370c6a54b887
+FileChecksum: SHA256: 837ddccbb74961eeeb0ab08d9037b06c1e95ebf4a70ef8613ab5cbef25982770
+FileChecksum: MD5: 6baf293de711bc18630da3902f97153b
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/SpdxToolsHelper.java
+SPDXID: SPDXRef-item862968
+FileChecksum: SHA1: 924e03f032c86956e69824908d5b1762842a8926
+FileChecksum: SHA256: d025643365d51216e1a0f4ec9bc03373caf4b7f00ee4d77c99eca50117ed98e2
+FileChecksum: MD5: 93330e700748a467b314a8c6bb1677f9
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/SpdxVerificationException.java
+SPDXID: SPDXRef-item862978
+FileChecksum: SHA1: ec2cb0867ce69112b1a4f043106c33333e6fdd42
+FileChecksum: SHA256: abc21671d3e7468dfe060e6141544fd825154e5646a67a8a40a75fe627c22117
+FileChecksum: MD5: 393b9f1d9701518d79f8ed3bc6043cc5
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/SpdxViewer.java
+SPDXID: SPDXRef-item862929
+FileChecksum: SHA1: e0d22952933ee2d4caedef539d047bb87c3add60
+FileChecksum: SHA256: 92cf2dfe3a09983dffa1fcfacd657a671e482d19f896f305dcf2982ebc0e8bee
+FileChecksum: MD5: 4fcc63836c1ae28294c3cc63acbcff5d
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2010 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/main/java/org/spdx/tools/Verify.java
+SPDXID: SPDXRef-item862979
+FileChecksum: SHA1: 3c3560b2660deb9ae9f0e2b3ff43eb89acbed76d
+FileChecksum: SHA256: 83b24d10be28d5e50dfac87026bb6972accbb3a85dd59f03f15d49cced76d4ee
+FileChecksum: MD5: 31df019db1e04b41826ea5e365243cfd
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2015 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/test/java/org/spdx/tools/schema/OwlToXSDTest.java
+SPDXID: SPDXRef-item862989
+FileChecksum: SHA1: f189abcf851acbcd00a7e709a55d04553dc2d120
+FileChecksum: SHA256: bd58814d5e23de5f9cdab65cb753718656ac600b4a8676095ef2091512e27829
+FileChecksum: MD5: 0d8a32ce33902040762b5842a4674f6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/test/java/org/spdx/tools/CompareSpdxDocsTest.java
+SPDXID: SPDXRef-item862987
+FileChecksum: SHA1: fb63c777e4c286e5d4cef0c8a5c639ef27d9321a
+FileChecksum: SHA256: ef01df21e99e3b73ee5192ccaef25e078da45a326f89669e61485d9891ec50d8
+FileChecksum: MD5: 2f77b3c9770e8c7512639eb02b741102
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/test/java/org/spdx/tools/GenerateVerificationCodeTest.java
+SPDXID: SPDXRef-item862986
+FileChecksum: SHA1: 74a0a937cbb05f5ec30e05dae25eda82fc02bf65
+FileChecksum: SHA256: 80ce5b959a5ad0aeaac9d3e1c8db97af2156a1de5078cc1b715941a1693c0233
+FileChecksum: MD5: a741e2ef6d27213fd8ae6c00a363cd31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/test/java/org/spdx/tools/SpdxConverterTest.java
+SPDXID: SPDXRef-item862985
+FileChecksum: SHA1: ba28673aa08e1c0d664c9a32f5b824f3d7ee5343
+FileChecksum: SHA256: f5c395fe33ff90b919f000368fbd4dcd0552bf3f1760431c8431f4a17d59a89d
+FileChecksum: MD5: 60af1f53dd21cb11c598a5ab0da1e31a
+LicenseConcluded: Apache-2.0 AND Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Source Auditor Inc. </text>
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/src/test/java/org/spdx/tools/VerifyTest.java
+SPDXID: SPDXRef-item862990
+FileChecksum: SHA1: 9aac0c80261e161a5ebf623250c6ab72babd97f0
+FileChecksum: SHA256: c22ccf8ec2d631e96d8e04e28741d366c88f91ede1d1386283d1b54a22d6b995
+FileChecksum: MD5: da5e1d1525724b24cba1b10f8e2a863e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/CONTRIBUTING.md
+SPDXID: SPDXRef-item862921
+FileChecksum: SHA1: cbe78fcb3c79cacb7e2623ae98450fec193173cc
+FileChecksum: SHA256: c738824e419675574f8a258d3e1fc70001b06f415326e5a4e2f39f62e9cefcc7
+FileChecksum: MD5: 9b021fb2b81cd383e058ce8153b0e313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/resources/log4j2.xml
+SPDXID: SPDXRef-item862992
+FileChecksum: SHA1: 6656403ea25de02923edc47cfe4c53511265bac6
+FileChecksum: SHA256: 56d044b2d05ed40dd6fd20f450dcb89629fdfadf336ce39ef577d9567bfb3319
+FileChecksum: MD5: 178f193d57e2dfb00f9b42726004ffa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/.github/workflows/build.yml
+SPDXID: SPDXRef-item862995
+FileChecksum: SHA1: fb612b8d8d7a41aaef58fcca8eaa33810c1f9140
+FileChecksum: SHA256: 36c10a709dcea04677cf6f810dbc8d10f03c51c0fa2d9429582e1fe23727992a
+FileChecksum: MD5: d30c8f2e221a29bc93ca1915742b18bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXXMLExample-v2.2.spdx.xml
+SPDXID: SPDXRef-item862997
+FileChecksum: SHA1: 20e6785ef2ae9558be0e5d542def001d49a429b9
+FileChecksum: SHA256: cf82bec663da8428cb2c9f05d1a41a4d1c783ffd3e2873a22fbbfb6ba02583e3
+FileChecksum: MD5: d008336d7a775e4347cb5d5f5954818f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: LicenseRef-MX4J-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-MPL
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-EFI
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/[Content_Types].xml
+SPDXID: SPDXRef-item863001
+FileChecksum: SHA1: d6cb720aeec583a58aa422be775a6cc51091d849
+FileChecksum: SHA256: 81825b2eca5521f4e97c133c326b6ec92fac9cf7997d6defc10df8f09922cdad
+FileChecksum: MD5: 323c990cb77b302ffdc4000539ea4f7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/sharedStrings.xml
+SPDXID: SPDXRef-item863003
+FileChecksum: SHA1: 2dd3ba9894292807c5880ab6bb834d3728b7dd73
+FileChecksum: SHA256: 74c3ed5cd6c6685bdbdf046a1d67e7572ba82a6d5f6a6bcd7871d4b1c7063833
+FileChecksum: MD5: 526497890ab887b2fc4b1d79dd6a0c35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-MX4J-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-EFI
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/styles.xml
+SPDXID: SPDXRef-item863004
+FileChecksum: SHA1: 187d988d2ab99ec54354cfc1327de186538d26d0
+FileChecksum: SHA256: cb693306b548dae764c0e363e3601983624bc9e760449df7a686761bc899ee1c
+FileChecksum: MD5: 647ad95cdc2c9c54ea832393b0a55f04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/workbook.xml
+SPDXID: SPDXRef-item863005
+FileChecksum: SHA1: 0e08c52bb99fc031ebd978a473d3b8617145397b
+FileChecksum: SHA256: 0f022094917a17e63b4c76082a018f195c82326327eef312d4cb58b4458ffa7c
+FileChecksum: MD5: 671280a581463a1d2ae30012b94430c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet9.xml
+SPDXID: SPDXRef-item863007
+FileChecksum: SHA1: ccb5ec8be44748324dd9ba8890999d74fd64e76b
+FileChecksum: SHA256: 5bbd7683abca7c255043344a60262729defd2738fbf3e1b7b3f6bfc9e315d3ee
+FileChecksum: MD5: 26d998b41551ea21ae3651314ee6f195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet1.xml
+SPDXID: SPDXRef-item863008
+FileChecksum: SHA1: 3c15ffd75e6e6d1ff13c4f5d49d85f0eab5e276d
+FileChecksum: SHA256: 501a03776d3d7014e5633d8579b3e32fa3ffc92faf162398e082a6d83807bd32
+FileChecksum: MD5: a31bb727e98a5902f4b920df2f950562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet7.xml
+SPDXID: SPDXRef-item863009
+FileChecksum: SHA1: 1e001fbc8958bb4cd8b7b6f9f2f19d667bc80ccd
+FileChecksum: SHA256: cdacef1affd6fab7e52ae3d94d557f8abe84148d757e780a5fe23a0268723ba4
+FileChecksum: MD5: e61cd0265db3c1675ac52933a036d42b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet3.xml
+SPDXID: SPDXRef-item863010
+FileChecksum: SHA1: 476e6f59f54c33c96cb55125eb0be4c12f002454
+FileChecksum: SHA256: c706eb72485b0249bf3dddafe9cabb421a42756c7154b0a67ab14d36c47b9463
+FileChecksum: MD5: ee2bebc6261ee7d5f507467b86165be9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet6.xml
+SPDXID: SPDXRef-item863011
+FileChecksum: SHA1: 13f6b3cb0909f8bf2bfc1514aaa5ea3ead8d42ac
+FileChecksum: SHA256: 54e7ac0a218d5fc440843804ab1f95025c31c80e15a21c192c5eb31c614312a4
+FileChecksum: MD5: f3dfd2b66c282190833a3f29c9a6e17d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet4.xml
+SPDXID: SPDXRef-item863012
+FileChecksum: SHA1: 64c32c204d5045541f8b8cfef36c93dcf20bb552
+FileChecksum: SHA256: 91624fdfef35fdd5583db4d98a8da319d24c65b1d0fde5e10704a95a5130ecd4
+FileChecksum: MD5: cff0cb7a167c8b95763f6c45229718c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet5.xml
+SPDXID: SPDXRef-item863013
+FileChecksum: SHA1: 9f0c9e3ed5b83e02f2e14918cb2e4bf9f09116d4
+FileChecksum: SHA256: 99e06e40da3d71c9d322d30949dd1b8ed205399cb183e9c9607d52395fc84631
+FileChecksum: MD5: 83f671169c8d5e8c1676e8da4521ca6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet2.xml
+SPDXID: SPDXRef-item863014
+FileChecksum: SHA1: d67e557e7a6e1fb531b5f78d8c2383f995a5d362
+FileChecksum: SHA256: 6183fb459799ec2513a43e801e5313d5398879bd6feb0aa62d79429581cb9d7b
+FileChecksum: MD5: 5d536769478993610f85c9b4f6d4d813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/worksheets/sheet8.xml
+SPDXID: SPDXRef-item863015
+FileChecksum: SHA1: e783896b13f6c0a86474e7566d19fe2fb4b3c662
+FileChecksum: SHA256: 28b98438c4ef373444f023294b8ee4a5856093bf383aef15168622ea0e22e49a
+FileChecksum: MD5: 2f446d78d57e3bec990269cfd1fa56e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/xl/_rels/workbook.xml.rels
+SPDXID: SPDXRef-item863017
+FileChecksum: SHA1: 95270656c4afde31859bb6d2d10257c8da7198ee
+FileChecksum: SHA256: db07e0d50cf56082196b7758d30fd6e6ed01e428c958250c032ca2ec94af597a
+FileChecksum: MD5: c64c9203c633708cef86a66da0c20fb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/docProps/core.xml
+SPDXID: SPDXRef-item863019
+FileChecksum: SHA1: e81834bf40447f3f3211488e47e8891975b2cf41
+FileChecksum: SHA256: 2cab05f6ecc0781304e043256542bc0a1636baf56a136560d73db5889b963ee6
+FileChecksum: MD5: 31fb0067c6dbedd2327c8202a063c5b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/docProps/app.xml
+SPDXID: SPDXRef-item863020
+FileChecksum: SHA1: cc720b8dd67f3ae08a7f19748d9caac4f0e5d277
+FileChecksum: SHA256: 64ba76b9aad560e20b91f55004c1cdfca5004848002853156c02a6f3bfdb1ead
+FileChecksum: MD5: e9ba946106e6be728d6b13845b2d1258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xlsx/_rels/.rels
+SPDXID: SPDXRef-item863022
+FileChecksum: SHA1: 59bd96ace0b599a70bd64a8c391968c0e31ff6cc
+FileChecksum: SHA256: 64573e1d86bc8a4e3fbf3714cc5681ea896cc11362c5b117a6438496d4a33be3
+FileChecksum: MD5: 8626501e5a71a7dcee0337121c53a685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXYAMLExample-2.2.spdx.yaml
+SPDXID: SPDXRef-item863023
+FileChecksum: SHA1: 8df6c9a939e374acacc986b11187790883d7fc20
+FileChecksum: SHA256: c3a6766728b59e7043cad570feb627c9ba92a3b22cde1245e0a60aa855d14862
+FileChecksum: MD5: f66f8d692619f6ac47df3c82e3af3e2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-MPL
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXJSONExample-v2.2.spdx.json
+SPDXID: SPDXRef-item863024
+FileChecksum: SHA1: 366b2bb8b38ab79a3135e578408485cc55c03496
+FileChecksum: SHA256: b597c6b9fe4bad3bf266f85ca79e83339426fd1b929d7cc99043060cef603d43
+FileChecksum: MD5: fc4f44599a577c229bd919632f074a2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-MPL
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain-BSD-disclaimer
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/DifferentFileComment.spdx.yaml
+SPDXID: SPDXRef-item863025
+FileChecksum: SHA1: 99b32d7e5f32f93276d8793d77291aad26b60298
+FileChecksum: SHA256: 1ca956fc4d07ec9da63efb7d431253ca3629159cb41e0ab567e4604ec43c0e42
+FileChecksum: MD5: 4548707e4f81bd8421f0023283a5c938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-MPL
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/spdx-2-2-revision-8-onotology.owl.xml
+SPDXID: SPDXRef-item863026
+FileChecksum: SHA1: fdb9fa68ebb7429ec1addc619e3de89dc8ec44c9
+FileChecksum: SHA256: 3eb0be0a3314fb5ed7d986998108af17bb1c5567d043d3d828c8e7bc51521c82
+FileChecksum: MD5: 8c1f10797cee194668ddfdf65e311338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/[5]SummaryInformation
+SPDXID: SPDXRef-item863029
+FileChecksum: SHA1: c6d981ba0070557acb2997a12fe1b3e424b2b945
+FileChecksum: SHA256: bcc219284dd27f51d910f6b38d8b770a1bfe4d6e0378fcdc627c3783c3954880
+FileChecksum: MD5: 7f772761f26821b1a0a333c3c55cebbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/Workbook/[Content_Types].xml
+SPDXID: SPDXRef-item863032
+FileChecksum: SHA1: e52b0a05ec21d91953adf435f79216c13f0abd7d
+FileChecksum: SHA256: 6c98d4f2b62b4db730884f9bd6d27e5360693eaad02d9cdbaa0e71c4c747450b
+FileChecksum: MD5: c9cbcd6f377d2c787064d8e5464412f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/Workbook/theme/theme/theme1.xml
+SPDXID: SPDXRef-item863035
+FileChecksum: SHA1: 8ed026aeda2251bd774cf4f4a0eaaf5e75e34ea1
+FileChecksum: SHA256: fed2dc75e3d518cca1c2e78c110c5241f17029694b0d5456ff5b05d74c9eed03
+FileChecksum: MD5: d6519a9212444706e7cbda9fb2917083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/Workbook/theme/theme/_rels/themeManager.xml.rels
+SPDXID: SPDXRef-item863037
+FileChecksum: SHA1: acb1a688c812a9f476143fb88a32c8c5475cf97c
+FileChecksum: SHA256: 2983db3781942d11b9497551888ee8774f861ff9cbc5c64ddb79eaa0698f87bd
+FileChecksum: MD5: c8d47b0b4a92b9587777ef824be3c8c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/Workbook/theme/theme/themeManager.xml
+SPDXID: SPDXRef-item863038
+FileChecksum: SHA1: 1f3827fdb4f84b4aa192554a13b3176a79f400e7
+FileChecksum: SHA256: 09ddbe6d159c1fae7299f5d4e1281dad6068331d9f651f45a51265277b80f0ed
+FileChecksum: MD5: ad57ce056452726e5fb113fb8c6f229e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/Workbook/_rels/.rels
+SPDXID: SPDXRef-item863040
+FileChecksum: SHA1: 0391c4107d2d980a3453fb01c7a3cf87e0fd63a9
+FileChecksum: SHA256: d2d8276ca63e307268dbf1bef2fbf45ba4c65c27494555a7742761c22984f1af
+FileChecksum: MD5: 72721ae37030f210de7a73d75dbc33eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXSpreadsheetExample-v2.2.xls/[5]DocumentSummaryInformation
+SPDXID: SPDXRef-item863041
+FileChecksum: SHA1: e89d7fbfff3d057f4ae695b630156ab59d9d9832
+FileChecksum: SHA256: a272cdf00ddd59043cc6a3f341d7e1ca0daaaabbb58c32eb9975f9e624e2f830
+FileChecksum: MD5: 6a47af06cb608950f43a517e04493e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXTagExample-v2.2.spdx
+SPDXID: SPDXRef-item863042
+FileChecksum: SHA1: a11331f615f53ca14ffe684da4dd831ebbcff1d3
+FileChecksum: SHA256: c5960c8b3edadeeef85103bff9db3503ccdac744a68b65ef1521128860755648
+FileChecksum: MD5: 52c7ca5c430b5533356099ab591d348c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: Entessa
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-MPL
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: LicenseRef-Public-domain-BSD-disclaimer
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXRdfExample-v2.2.spdx.rdf
+SPDXID: SPDXRef-item863043
+FileChecksum: SHA1: 2f8f8324c69637c9323e6f35d11ced32dc492827
+FileChecksum: SHA256: c00632d49f22a03ae551c8ad3b9fca18d5434e7f94ac18ddb648f335d3a3ff96
+FileChecksum: MD5: 5ba3fbb77a66e271019c9eb326f1cff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: NPL-1.0
+LicenseInfoInFile: MPL-1.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: LicenseRef-MX4J-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain-BSD-disclaimer
+LicenseInfoInFile: LicenseRef-Apache-2.0-Pixar-modified
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileTypeSheet.java
+SPDXID: SPDXRef-item863045
+FileChecksum: SHA1: efd0f8f7b2622bf6a08bf115f0483e04cd63759c
+FileChecksum: SHA256: 93c6844fd51c2ded2b555e5c7f414092dbfcdc562e75206039d2bcc5639ab019
+FileChecksum: MD5: 0faf857d62e588749675946c4a6d816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileCommentSheet.java
+SPDXID: SPDXRef-item863046
+FileChecksum: SHA1: 665b7b5b76b79399076f4cc1a8167c980d4efcdf
+FileChecksum: SHA256: 95d24aee172b9beed6705b7af6519645a96ca9429498b42203199d6e2f14e635
+FileChecksum: MD5: 3a4094cae11dac988b5043b830c3e54f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/PackageSheet.java
+SPDXID: SPDXRef-item863047
+FileChecksum: SHA1: f022e85b2df752a623fe58c2911194b4071094ff
+FileChecksum: SHA256: b1fdd53c3d7f54110b3f4446d51073ecce8c7befbce153057d78bf608b5224a1
+FileChecksum: MD5: 46d73fc0f136a65bb4ca40019463bd52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/CompareHelper.java
+SPDXID: SPDXRef-item863048
+FileChecksum: SHA1: c036975514c51440b4b9bfbbc0859b173c9dcf59
+FileChecksum: SHA256: fb9d384e52627d87e5aae00f57dcf2d385d990cd450a793ac9eaea72d3957dea
+FileChecksum: MD5: 4c578b702375f1220dda7d0f17f806b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/CreatorSheet.java
+SPDXID: SPDXRef-item863049
+FileChecksum: SHA1: bd2072ce80dd7b431d7783e9682bc26318ecaf30
+FileChecksum: SHA256: 866e880515ffa9354c5daaceba4d465234816ece4296a81dfe082224fa98bbe1
+FileChecksum: MD5: 16b27b40986c9c33877d9a722d2127a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/SnippetSheet.java
+SPDXID: SPDXRef-item863050
+FileChecksum: SHA1: 74d8d081a22835afceb2fa96211c81cbd4eeaf53
+FileChecksum: SHA256: ca8a561dad83ab416ceb42169d5b5bb3a7821bc53d6df5d57daac5661d4cd314
+FileChecksum: MD5: c50f1f87591066ee1585887b7b115871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileConcludedSheet.java
+SPDXID: SPDXRef-item863051
+FileChecksum: SHA1: 6c354e336609486b4e990234b7aa5ad6084348ec
+FileChecksum: SHA256: da889d19ebf1923a75ec43b443ff39957d9d29564165eb8b72701152719764fc
+FileChecksum: MD5: dd1ef059697c9e7341573963e2dbb601
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileCopyrightSheet.java
+SPDXID: SPDXRef-item863052
+FileChecksum: SHA1: 39b587027ee2bca8cbb0bf28cb34e99c334bf532
+FileChecksum: SHA256: 9003fe525fb5d38482b9b564a05f550588e54c3455eee9bc26437ad77a2cb8a3
+FileChecksum: MD5: 6a3d4984058867bc256db1bdc7d1b9bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileAnnotationSheet.java
+SPDXID: SPDXRef-item863053
+FileChecksum: SHA1: 58660e158461b307c467b951d5683084cb62b3a4
+FileChecksum: SHA256: 1c6fcd5753d4060eb47d267a8f3e9b538fb70cc1682404074b4371108c9c25a6
+FileChecksum: MD5: 771f1d363a191183f3b58afb2cd1f405
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/AbstractSheet.java
+SPDXID: SPDXRef-item863054
+FileChecksum: SHA1: d34b69a749c980dbd90666e8ac16cbf809c5b793
+FileChecksum: SHA256: 55288b85510ba5c65b6a92d3835a815ba97e494d31d179a760b1370c9fb8ae9a
+FileChecksum: MD5: 1799c470e703c3e1a9ed846afae387cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/VerificationSheet.java
+SPDXID: SPDXRef-item863055
+FileChecksum: SHA1: 22eaaefbe232d2d86de2e7c76346f536c943fae9
+FileChecksum: SHA256: f6bb4c970e1788c21614f0acf662f1db194f69a0217ddf7bcab6c65432066c89
+FileChecksum: MD5: 61924b3085450058223d96c1a50cc0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/ExtractedLicenseSheet.java
+SPDXID: SPDXRef-item863056
+FileChecksum: SHA1: 85d27dd745bab5b66d7b91f4cbcce8acb7552713
+FileChecksum: SHA256: c64a8bcfd1d2b65a1a36873374967952de89cd383d876b5b71c8f6da4aebd839
+FileChecksum: MD5: 6cf80d4d0e080fb2080d878724fdf349
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileRelationshipSheet.java
+SPDXID: SPDXRef-item863057
+FileChecksum: SHA1: b2b907f2392115239e3711b57f7e6e83a39c6136
+FileChecksum: SHA256: 4c8a0e3d1784434991b9f355b2a587a96668870eb47930113d1c7fbc1528d1a0
+FileChecksum: MD5: b8b8e07d28a57572e92cecb809dcccda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/package-info.java
+SPDXID: SPDXRef-item863058
+FileChecksum: SHA1: 3984937747f7908fd3f6ce3688ce90c81df00b03
+FileChecksum: SHA256: 53ebbe4fd1ef584a8f0960ecabf483a8ef659d85b68546059a5f00eb5df36e0c
+FileChecksum: MD5: e96215c07179f4a124d2f4b35c47ad00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/ExternalReferencesSheet.java
+SPDXID: SPDXRef-item863059
+FileChecksum: SHA1: b5d49a0ce3aa73ce0602cca88846b73ac2f09d23
+FileChecksum: SHA256: a15a28e1f76a81d2fb3dd6a12f7fc82d31b752d4347b321394d0d0ed56f846af
+FileChecksum: MD5: a23e05a0ae45ecd64f84325d96ca831f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileSpdxIdSheet.java
+SPDXID: SPDXRef-item863060
+FileChecksum: SHA1: af9597d94516646e0d5e5b1172b18395899dfc9f
+FileChecksum: SHA256: f54f703f3aa605789236cd91d2fa64ef332e0fe249a87c6e9021293eee5e9fbf
+FileChecksum: MD5: 486a5b3e878fa4604916a28343d069d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/DocumentAnnotationSheet.java
+SPDXID: SPDXRef-item863061
+FileChecksum: SHA1: 055c881c239b38aa0c243249dfa4fa4fd749b9d3
+FileChecksum: SHA256: b23047c61b155b147d1578dceac57a449c046b92e7e40f745fa048ac3da9c536
+FileChecksum: MD5: 26db8a5b8bc3b1e28b5962afe4c01986
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/MultiDocumentSpreadsheet.java
+SPDXID: SPDXRef-item863062
+FileChecksum: SHA1: a4c63213a4f59ec211663ee61da6c2c94e89abba
+FileChecksum: SHA256: 207e10fb04906f7000e452ad0c1e88e04019de8bd91cae9342ccfd2c63367d24
+FileChecksum: MD5: cc6330ea4c96fbaa8e716a69d00ec285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileLicenseInfoSheet.java
+SPDXID: SPDXRef-item863063
+FileChecksum: SHA1: 0481c8bf901e478ae104dd9aa0284405c38a7a97
+FileChecksum: SHA256: 1e0468a7e268544328b4950e230403537b33435c4687f86a77333b8f34060cce
+FileChecksum: MD5: 2f2ef66b7f4cf954faaa4056a0444752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/DocumentRelationshipSheet.java
+SPDXID: SPDXRef-item863064
+FileChecksum: SHA1: e378b33d436db119d4dba2d04009763fedcf7b77
+FileChecksum: SHA256: 15a88ee6ec3391c436a61dfd5f444a2f941919839720107a860183749edf6f5d
+FileChecksum: MD5: bce4811cecf8ba36ccba3e2c03eb819b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileNoticeSheet.java
+SPDXID: SPDXRef-item863065
+FileChecksum: SHA1: 3b8aaf072146d61e2fc05be588eb91b4f4b6282b
+FileChecksum: SHA256: 1336cbdf4442486b659f7113338685d68c1b891c818513f03c4e6a58695f32dd
+FileChecksum: MD5: 33fdbe23652b213ab8eb9b256e690b6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/NormalizedFileNameComparator.java
+SPDXID: SPDXRef-item863066
+FileChecksum: SHA1: de76546db4747e66c07aa53a8c009c91ca05b34c
+FileChecksum: SHA256: 7dc193d15412460b8821ab0fdea8feb5e82146c0b7119a682e0bdcb4c98e4358
+FileChecksum: MD5: aef9f795ddfe3252e671497bf7ae7aad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileChecksumSheet.java
+SPDXID: SPDXRef-item863067
+FileChecksum: SHA1: 713525527c9fad700b15ea8bce870d8b7bc86fce
+FileChecksum: SHA256: 66e2cd22a3c6253bd31a1dac8c51f5e6df8a39281a54dcc7d919290d64332fab
+FileChecksum: MD5: 87bdc74e96ab6f794e18f056eab3bec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/DocumentSheet.java
+SPDXID: SPDXRef-item863068
+FileChecksum: SHA1: 63349d6a393c07a5643a26514d8105853b81242b
+FileChecksum: SHA256: 82abb5cc7e386e9205322113929c1c15cd6dc52a9102b2edddf657ab4e04a581
+FileChecksum: MD5: 5819e3b2fb1c67b6443f0ced1e141580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileContributorsSheet.java
+SPDXID: SPDXRef-item863069
+FileChecksum: SHA1: 9c259c1206a610a0d77ac299954a3b626ea358fc
+FileChecksum: SHA256: 2511a9f96faa355a7ff0a59ce5afda581673d773f10be75c16c73ad29a9be442
+FileChecksum: MD5: 24c1222b467c83a9b2e6a1d4f6b33bab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/AbstractFileCompareSheet.java
+SPDXID: SPDXRef-item863070
+FileChecksum: SHA1: e4eb541ff4c4e60ebc6e0b9f083cdf04885bce32
+FileChecksum: SHA256: ed942380d314b1e4b84362a1a92cda0c5dd5e57622c4b1bfeb5be632ac0e6e09
+FileChecksum: MD5: 05f180f8491d8ba45c25d5ac733292d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileAttributionSheet.java
+SPDXID: SPDXRef-item863071
+FileChecksum: SHA1: f05514480ae787e48201070180e8cd975ca15be2
+FileChecksum: SHA256: 8496588d2a760798329d5f3acc1aa9e0d63a1ee00dee1a353c4e445c430a3414
+FileChecksum: MD5: 220386a4fb6e6d89a61271926ec78c06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/sourcefiles/FileLicenseCommentsSheet.java
+SPDXID: SPDXRef-item863072
+FileChecksum: SHA1: e8a86ee4e84ba65231b2384d41204cf335df4470
+FileChecksum: SHA256: be55ab4c4d48a3118f06d8183abe6b40439fc58492f80aaf6a4f0572fd8427af
+FileChecksum: MD5: ac3fdd3aba18bd830dde18c3effe3a4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/testResources/SPDXTagExample-v2.2-warning.spdx
+SPDXID: SPDXRef-item863073
+FileChecksum: SHA1: 7ed0c181356006a7e5075460a21fed24bd2be26f
+FileChecksum: SHA256: 4454b0eefc65c5740b3cfb93fcb6b5d0c2ce168ba434e11b7021bc4e19cb991b
+FileChecksum: MD5: 2501c09456d7a744539957738f1c8f89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: Entessa
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: Beerware
+LicenseInfoInFile: LicenseRef-MPL
+LicenseInfoInFile: LicenseRef-Apache-1.1-style
+LicenseInfoInFile: LicenseRef-Public-domain-BSD-disclaimer
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx-2021-11-03.zip/tools-java/.gitignore
+SPDXID: SPDXRef-item863074
+FileChecksum: SHA1: 099b75f0d22291b45fa7991aeecb674b88719f78
+FileChecksum: SHA256: ffed1e868bf0673b987927c7ce8bb0cdc04d6126eb5dac0bd501b85c2b61b90d
+FileChecksum: MD5: a6d82ed27b21cb3a59b9eeb77a7ef270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Apache-2.0-Pixar-modified
+LicenseName: Apache-2.0 with Pixar modification
+ExtractedText: <text> Modified Apache 2.0 License
+
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity. For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity
+exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications,
+including but not limited to software source code, documentation
+source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical
+transformation or translation of a Source form, including but
+not limited to compiled object code, generated documentation,
+and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or
+Object form, made available under the License, as indicated by a
+copyright notice that is included in or attached to the work
+(an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object
+form, that is based on (or derived from) the Work and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship. For the purposes
+of this License, Derivative Works shall not include works that remain
+separable from, or merely link (or bind by name) to the interfaces of,
+the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including
+the original version of the Work and any modifications or additions
+to that Work or Derivative Works thereof, that is intentionally
+submitted to Licensor for inclusion in the Work by the copyright owner
+or by an individual or Legal Entity authorized to submit on behalf of
+the copyright owner. For the purposes of this definition, "submitted"
+means any form of electronic, verbal, or written communication sent
+to the Licensor or its representatives, including but not limited to
+communication on electronic mailing lists, source code control systems,
+and issue tracking systems that are managed by, or on behalf of, the
+Licensor for the purpose of discussing and improving the Work, but
+excluding communication that is conspicuously marked or otherwise
+designated in writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity
+on behalf of whom a Contribution has been received by Licensor and
+subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of
+this License, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+copyright license to reproduce, prepare Derivative Works of,
+publicly display, publicly perform, sublicense, and distribute the
+Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of
+this License, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as stated in this section) patent license to make, have made,
+use, offer to sell, sell, import, and otherwise transfer the Work,
+where such license applies only to those patent claims licensable
+by such Contributor that are necessarily infringed by their
+Contribution(s) alone or by combination of their Contribution(s)
+with the Work to which such Contribution(s) was submitted. If You
+institute patent litigation against any entity (including a
+cross-claim or counterclaim in a lawsuit) alleging that the Work
+or a Contribution incorporated within the Work constitutes direct
+or contributory patent infringement, then any patent licenses
+granted to You under this License for that Work shall terminate
+as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the
+Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form, provided that You
+meet the following conditions:
+
+(a) You must give any other recipients of the Work or
+Derivative Works a copy of this License; and
+
+(b) You must cause any modified files to carry prominent notices
+stating that You changed the files; and
+
+(c) You must retain, in the Source form of any Derivative Works
+that You distribute, all copyright, patent, trademark, and
+attribution notices from the Source form of the Work,
+excluding those notices that do not pertain to any part of
+the Derivative Works; and
+
+(d) If the Work includes a "NOTICE" text file as part of its
+distribution, then any Derivative Works that You distribute must
+include a readable copy of the attribution notices contained
+within such NOTICE file, excluding those notices that do not
+pertain to any part of the Derivative Works, in at least one
+of the following places: within a NOTICE text file distributed
+as part of the Derivative Works; within the Source form or
+documentation, if provided along with the Derivative Works; or,
+within a display generated by the Derivative Works, if and
+wherever such third-party notices normally appear. The contents
+of the NOTICE file are for informational purposes only and
+do not modify the License. You may add Your own attribution
+notices within Derivative Works that You distribute, alongside
+or as an addendum to the NOTICE text from the Work, provided
+that such additional attribution notices cannot be construed
+as modifying the License.
+
+You may add Your own copyright statement to Your modifications and
+may provide additional or different license terms and conditions
+for use, reproduction, or distribution of Your modifications, or
+for any such Derivative Works as a whole, provided Your use,
+reproduction, and distribution of the Work otherwise complies with
+the conditions stated in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise,
+any Contribution intentionally submitted for inclusion in the Work
+by You to the Licensor shall be under the terms and conditions of
+this License, without any additional terms or conditions.
+Notwithstanding the above, nothing herein shall supersede or modify
+the terms of any separate license agreement you may have executed
+with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade
+names, trademarks, service marks, or product names of the Licensor
+and its affiliates, except as required to comply with Section 4(c) of
+the License and to reproduce the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or
+agreed to in writing, Licensor provides the Work (and each
+Contributor provides its Contributions) on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+implied, including, without limitation, any warranties or conditions
+of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+PARTICULAR PURPOSE. You are solely responsible for determining the
+appropriateness of using or redistributing the Work and assume any
+risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory,
+whether in tort (including negligence), contract, or otherwise,
+unless required by applicable law (such as deliberate and grossly
+negligent acts) or agreed to in writing, shall any Contributor be
+liable to You for damages, including any direct, indirect, special,
+incidental, or consequential damages of any character arising as a
+result of this License or out of the use or inability to use the
+Work (including but not limited to damages for loss of goodwill,
+work stoppage, computer failure or malfunction, or any and all
+other commercial damages or losses), even if such Contributor
+has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing
+the Work or Derivative Works thereof, You may choose to offer,
+and charge a fee for, acceptance of support, warranty, indemnity,
+or other liability obligations and/or rights consistent with this
+License. However, in accepting such obligations, You may act only
+on Your own behalf and on Your sole responsibility, not on behalf
+of any other Contributor, and only if You agree to indemnify,
+defend, and hold each Contributor harmless for any liability
+incurred by, or claims asserted against, such Contributor by reason
+of your accepting any such warranty or additional liability. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MPL
+LicenseName: MPL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-MX4J-1.0
+LicenseName: The MX4J License, Version 1.0
+ExtractedText: <text> The MX4J License, Version 1.0
+
+         Copyright (c) 2001-2004 by the MX4J contributors.  All rights reserved.
+
+         Redistribution and use in source and binary forms, with or without
+         modification, are permitted provided that the following conditions
+         are met:
+
+         1. Redistributions of source code must retain the above copyright
+            notice, this list of conditions and the following disclaimer.
+
+         2. Redistributions in binary form must reproduce the above copyright
+            notice, this list of conditions and the following disclaimer in
+            the documentation and/or other materials provided with the
+            distribution.
+
+         3. The end-user documentation included with the redistribution,
+            if any, must include the following acknowledgment:
+               "This product includes software developed by the
+                MX4J project (http://mx4j.sourceforge.net)."
+            Alternately, this acknowledgment may appear in the software itself,
+            if and wherever such third-party acknowledgments normally appear.
+
+         4. The name "MX4J" must not be used to endorse or promote
+            products derived from this software without prior written
+            permission.
+            For written permission, please contact
+            biorn_steedom [at] users [dot] sourceforge [dot] net
+
+         5. Products derived from this software may not be called "MX4J",
+            nor may "MX4J" appear in their name, without prior written
+            permission of Simone Bordet.
+
+         THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+         OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+         DISCLAIMED.  IN NO EVENT SHALL THE MX4J CONTRIBUTORS
+         BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+         SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+         LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+         USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+         ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+         OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+         OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+         SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-Apache-1.1-style
+LicenseName: Apache-1.1-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-2-Clause-EFI
+LicenseName: BSD-2-Clause with EFI disclaimer
+ExtractedText: <text> Redistribution and use in source and binary forms, with or without modification,
+are permitted
+provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list
+of conditions and
+the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this
+list of conditions
+and the following disclaimer in the documentation and/or other materials
+provided with the
+distribution.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL INTEL BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE. THE EFI SPECIFICATION AND ALL OTHER INFORMATION
+ON THIS WEB SITE ARE PROVIDED "AS IS" WITH NO WARRANTIES, AND ARE SUBJECT
+TO CHANGE WITHOUT NOTICE. </text>
+
+LicenseID: LicenseRef-Public-domain-BSD-disclaimer
+LicenseName: Public domain statement with BSD-style disclaimer
+ExtractedText: <text> * This code is hereby placed in the public domain.
+*
+* THIS SOFTWARE IS PROVIDED BY THE AUTHORS ''AS IS'' AND ANY EXPRESS
+* OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+* WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+* ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS OR CONTRIBUTORS BE
+* LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+* CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+* SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+* BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+* WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+* OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+* EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
